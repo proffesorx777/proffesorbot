@@ -11,7 +11,7 @@
   ],
   "repository": "https://github.com/proffesorx777/proffesorbot",
   "website": "https://github.com/proffesorx777/proffesorbot",
-  "success_url": "https://t.me/KINGBOTOFFICIAL",
+  "success_url": "https://github.com/proffesorx777/proffesorbot",
   "stack": "container",
   "env": {
    "ENV": {
