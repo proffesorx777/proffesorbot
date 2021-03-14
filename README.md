@@ -11,7 +11,7 @@
 
 
 
-[![Run on Repl.it](https://repl.it/badge/STARKGANG/friday)](https://replit.com/@Kartikpro/Proffesorstringsession#main.py)
+[![Run on Repl.it](https://repl.it/badge)](https://replit.com/@Kartikpro/Proffesorstringsession#main.py)
 
 
 #Bot Ho gaya deploy to Sabko Apna Credite Milega Sabr Kro bhai Log
