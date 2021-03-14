@@ -1,7 +1,7 @@
 {
-  "name": "Professor BOT",
-  "description": "A powerful UB made by @Kartikrajofficial @Havtivisam",
-  "logo": "https://telegra.ph/file/1c2fe5686f09ec3da1981.png",
+  "name": "Proffesor BOT",
+  "description": "An advanced Telethon Userbot",
+  "logo": "https://telegra.ph/file/3981de618332fdff1a625.jpg",
   "keywords": [
    "telegram",
    "userbot",
@@ -11,7 +11,7 @@
   ],
   "repository": "https://github.com/proffesorx777/proffesorbot",
   "website": "https://github.com/proffesorx777/proffesorbot",
-  "success_url": "https://github.com/proffesorx777/proffesorbot",
+  "success_url": "https://t.me/KINGBOTOFFICIAL",
   "stack": "container",
   "env": {
    "ENV": {
@@ -32,7 +32,7 @@
     "value": ""
    },
    "STRING_SESSION": {
-    "description": "Get this value run https://replit.com/@Kartikpro/Proffesorstringsession#main.py",
+    "description": "Get this value by running python3 telesetup.py locally or https://repl.it/@PoxsisYT/B-Lac#main.py",
     "value": ""
    },  
    "CUSTOM_PMPERMIT": {
@@ -55,7 +55,7 @@
     "required": false
    },  
    "GIT_REPO_NAME": {
-    "description": "Your repo name Example: kartikrajofficial/proffesorbot, but GITHUB_ACCESS_TOKEN must be setup first.",
+    "description": "Your repo name Example: Anmol-dot284/Lightning, but GITHUB_ACCESS_TOKEN must be setup first.",
     "value": "",
     "required": false
    },
@@ -84,12 +84,12 @@
    },  
     "ALIVE_MSG": {
       "description": "Set Custom awake Message When entering .awake command.",
-      "value": "Me iz ALIVE Saar😌",
+      "value": "I AM ALIVE SIR 😈",
       "required": true
     },
     "ALIVE_PHOTTO": {
       "description": "Let it be what it is(skip)..or you can change the link according to your convince..this link is useful for `.awake` command.",
-      "value": "https://telegra.ph/file/3981de618332fdff1a625.jpg",
+      "value": "https://telegra.ph/file/946aa5614cf6d361fc4eb.jpg",
       "required": true
     },
     "CHROME_BIN": {
@@ -113,7 +113,7 @@
     "required": false
    },
    "PRIVATE_GROUP_ID": {
-    "description": "Same value as PRIVATE_GROUP_BOT_API_ID. Required for pmpermit.",
+    "description": "Same value as PRIVATE_GROUP_BOT_API_ID. Must read https://telegra.ph/userbot-Setup-06-06 for knowing how to get the value. Required for pmpermit.",
     "value": "",
     "required": true
    },
@@ -129,12 +129,12 @@
    },
    "TG_BOT_USER_NAME_BF_HER": {
     "description": "Needed for inline buttons maker. Make a bot at [BotFather](http://telegram.dog/BotFather) and get the username of your bot. Needed for .help to work.",
-    "value": "@kingbotofficialrobot",
+    "value": "@BLAC_PUBLIC_BOT",
     "required": true
    },
    "ALIVE_NAME": {
     "description": "Your Telegram Username. ",
-    "value": "Proffesor User",
+    "value": "BLAC_USERBOT_USER",
     "required": false
    },  
    "MAX_SPAM": {
@@ -154,12 +154,12 @@
    },
    "ALIVE_PIC": {
     "description": "telegra.ph link to theimage you want as alive pic, leave blank for sticker",
-    "value": "https://telegra.ph/file/3981de618332fdff1a625.jpg",
+    "value": "https://telegra.ph/file/76daded01da7289d0bd4d.jpg",
     "required": false
    },
    "PMPERMIT_PIC": {
    "description": "telegra.ph link to theimage you want as pmpermit pic, leave blank for default one!",
-   "value": "https://telegra.ph/file/3981de618332fdff1a625.jpg",
+   "value": "https://telegra.ph/file/946aa5614cf6d361fc4eb.jpg",
    "required": false
    },
    "TZ": {
@@ -175,4 +175,3 @@
    }
   }]
  }
- 
