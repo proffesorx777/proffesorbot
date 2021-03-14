@@ -9,7 +9,7 @@
 #   String Session
 
 
-[![Run on Repl.it](https://repl.it/badge/github/STARKGANG/friday)](https://replit.com/@proffesorx777/replit#main.py)
+[![Run on Repl.it](https://replit.com/@proffesorx777/replit#main.py)
 
 
 #Bot Ho gaya deploy to Sabko Apna Credite Milega Sabr Kro bhai Log
