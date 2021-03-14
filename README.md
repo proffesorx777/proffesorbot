@@ -9,7 +9,7 @@
 #   String Session
 
 
-[![Run on Repl.it](https://repl.it/badge/github/STARKGANG/friday)](https://repl.it/@pawanjatt/B-Lacuserbot#main.py)
+[![Run on Repl.it](https://replit.com/@proffesorx777/replit#main.py)
 
 
 ##   The Normal Way
