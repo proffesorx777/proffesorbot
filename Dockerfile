@@ -59,11 +59,11 @@ RUN apt-get autoremove --purge
 RUN axel https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb && apt install -y ./google-chrome-stable_current_amd64.deb && rm google-chrome-stable_current_amd64.deb
 RUN axel https://chromedriver.storage.googleapis.com/86.0.4240.22/chromedriver_linux64.zip && unzip chromedriver_linux64.zip && chmod +x chromedriver && mv -f chromedriver /usr/bin/ && rm chromedriver_linux64.zip
 RUN wget -O opencv.zip https://github.com/opencv/opencv/archive/master.zip && unzip opencv.zip && mv -f opencv-master /usr/bin/ && rm opencv.zip
-RUN wget https://raw.githubusercontent.com/B-Lac/B-Lac-Userbot/master/sh1vamrun.py
-RUN wget https://raw.githubusercontent.com/B-Lac/B-Lac-Userbot/master/requirements.txt
-#RUN git clone https://github.com/B-Lac/B-Lac-Userbot /root/userbot
+RUN wget https://raw.githubusercontent.com/proffesorx777/proffesorbot/master/probot.py
+RUN wget https://raw.githubusercontent.com/proffesorx777/proffesorbot/master/requirements.txt
+#RUN git clone https://github.com/proffesorx777/proffesorbot /root/userbot
 #RUN mkdir /root/userbot/bin/
 #WORKDIR /root/userbot/
 #RUN chmod +x /usr/local/bin/*
 RUN pip3 install -r requirements.txt
-CMD ["python3","sh1vamrun.py"]
+CMD ["python3","probot.py"]
