@@ -1,7 +1,7 @@
 {
-  "name": "Proffesor BOT",
-  "description": "An advanced Telethon Userbot",
-  "logo": "https://telegra.ph/file/3981de618332fdff1a625.jpg",
+  "name": "ɓ乛ℓα૮ µรε૨ɓσƭ",
+  "description": "An advanced Telethon Userbot, from @krish1303y",
+  "logo": "https://telegra.ph/file/946aa5614cf6d361fc4eb.jpg",
   "keywords": [
    "telegram",
    "userbot",
@@ -9,9 +9,9 @@
    "modular",
    "productivity"
   ],
-  "repository": "https://github.com/proffesorx777/proffesorbot",
-  "website": "https://github.com/proffesorx777/proffesorbot",
-  "success_url": "https://t.me/KINGBOTOFFICIAL",
+  "repository": "https://github.com/B-Lac/B-Lac-Userbot",
+  "website": "https://github.com/B-Lac/B-Lac-Userbot",
+  "success_url": "https://t.me/BLACUSERBOT",
   "stack": "container",
   "env": {
    "ENV": {
