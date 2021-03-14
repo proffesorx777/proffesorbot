@@ -12,20 +12,9 @@
 [![Run on Repl.it](https://repl.it/badge/github/STARKGANG/friday)](https://replit.com/@proffesorx777/replit#main.py)
 
 
-##   The Normal Way
-   Simply clone the repository and run the main file:
+#Bot Ho gaya deploy to Sabko Apna Credite Milega Sabr Kro bhai Log
 
-# The Normal Way
 
-Simply copy this and paste in termux app:
-```
-apt-get upgrade -y
-pkg upgrade -y
-pkg install python wget -y
-wget https://github.com/B-Lac/B-Lac-Userbot/blob/master/telesetup.py
-pip install telethon
-python telesetup.py
-```
 
 class Development(Var):
   APP_ID = 1215061
