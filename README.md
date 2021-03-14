@@ -3,7 +3,7 @@
 #    Deploy
 
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/B-Lac/B-Lac-Userbot)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://https://github.com/proffesorx777/proffesorbot)
 
 
 #   String Session
